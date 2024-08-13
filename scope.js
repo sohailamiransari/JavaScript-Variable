@@ -14,3 +14,4 @@ console.table([accountId, accountEmail, accountCity, accountState]);
 // console.log(accountState) // accountState is undefine because we have declare the value but not fill the value.
 
 
+
